@@ -10,6 +10,8 @@ Data is explored and analyzed per year `2022` and `2023`, it is also grouped by 
 
 ![bokeh_plot (1)](https://github.com/Gespinoza10/time-series-data-sp500/assets/81205562/747a210f-dd49-45e1-850f-ba906ad79095)
 
+![bokeh_plot (2)](https://github.com/Gespinoza10/time-series-data-sp500/assets/81205562/8e92aa74-a482-4ca5-b62f-f0569efd7bbd)
+
 Data is also used to create a new feature in our dataframe `Return` that represents the stocks daily return. The program used `pandas` library `.diff()` function to calculate the daily retruns. 
 
 ## Creating a Time Series Model with Prophet
