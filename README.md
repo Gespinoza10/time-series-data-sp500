@@ -17,3 +17,7 @@ Data is also used to create a new feature in our dataframe `Return` that represe
 ![bokeh_plot](https://github.com/Gespinoza10/time-series-data-sp500/assets/81205562/3eecd2b8-4f0a-4ea4-b74e-949bb04208f0)
 
 ## Creating a Time Series Model with Prophet
+
+Time Series model showed a very insightful trend for the past 10 years.
+
+<img width="642" alt="Screenshot 2024-01-04 at 7 56 49 PM" src="https://github.com/Gespinoza10/time-series-data-sp500/assets/81205562/d26a3140-3797-4141-ae30-3e54729c9068">
